@@ -1,14 +1,14 @@
 <!-- 🔵 PREMIUM AI BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shiwan-mangate/shiwan-mangate/main/ChatGPT%20Image%20Nov%2030%2C%202025%2C%2011_12_16%20AM.png" width="100%">
+  <img src="https://raw.githubusercontent.com/shiwan-mangate/shiwan-mangate/main/ChatGPT%20Image%20Nov%2030%2C%202025%2C%2011_12_16%20AM.png" width="100%" alt="Premium AI Banner">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shiwan-mangate/shiwan-mangate/main/banner.png" width="100%">
+  <img src="https://raw.githubusercontent.com/shiwan-mangate/shiwan-mangate/main/banner.png" width="100%" alt="Tech Banner">
 </p>
 
 <h1 align="center">👋 Hi, I'm <b>Shiwan Mangate</b></h1>
-<h3 align="center">AI Engineer | Quant Finance | ML Developer | Generative AI | NLP | Time-Series</h3>
+<h3 align="center">AI Engineer · Quant Finance · ML Developer · Generative AI · NLP · Time-Series</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shiwan-mangate&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
@@ -19,23 +19,26 @@
 ---
 
 # 🧠 About Me
-I’m **Shiwan Mangate**, pursuing **B.Tech in Artificial Intelligence (2024–2028)** at **NIT Rourkela**.
 
-I work at the intersection of:
+I’m **Shiwan Mangate**, currently pursuing **B.Tech in Artificial Intelligence (2024–2028)** at **NIT Rourkela**.
 
-- 🧠 Machine Learning & Deep Learning  
-- 💬 NLP & Generative AI  
-- 📈 Quant Finance & Time-Series Modeling  
-- 🏗 End-to-End AI Systems  
+I love building intelligent systems at the crossroads of:
+
+- 🧠 **Machine Learning & Deep Learning**  
+- 💬 **NLP & Generative AI**  
+- 📈 **Quantitative Finance & Time-Series Modeling**  
+- 🏗 **End-to-End AI Systems & Deployment**
 
 ### 🔍 Current Focus
+
 - Strengthening **DSA, ML theory & Quant Finance**
-- Building **RAG + LLM systems**
-- Developing **AI-driven financial pipelines**
+- Building **RAG + LLM-based applications**
+- Designing **AI-driven financial & analytics pipelines**
 
 ---
 
 # 📘 Table of Contents
+
 - [Skills](#-skills--tech-stack)
 - [Featured Projects](#-featured-projects)
 - [GitHub Stats](#-github-stats)
@@ -49,7 +52,7 @@ I work at the intersection of:
 <summary><h3>🟦 Programming Languages</h3></summary>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark" height="50">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark" height="50" />
 </p>
 
 </details>
@@ -178,7 +181,7 @@ I work at the intersection of:
 <summary><h3>🧰 Development & Platforms</h3></summary>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,streamlit,fastapi,flask,linux,windows,vscode&theme=dark" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,streamlit,fastapi,flask,linux,windows,vscode&theme=dark" height="50" />
 </p>
 
 </details>
@@ -187,52 +190,73 @@ I work at the intersection of:
 
 # 🚀 Featured Projects
 
-### 🚗 **CAR DAMAGE PREDICTOR**
-✔ CNN-based damage detection  
-✔ Tech: PyTorch, OpenCV, Streamlit  
+### 🚗 CAR DAMAGE PREDICTOR
+- 🧩 **Goal:** Detect visible car damage from images  
+- 🛠 **Tech:** CNN, PyTorch, OpenCV, Streamlit  
 
-### 💳 **CREDIT RISK MODEL**
-✔ Predicts borrower default probability  
-✔ Tech: XGBoost, LightGBM  
+---
 
-### 📰 **FAKE NEWS DETECTION**
-✔ NLP classifier (TF-IDF + Naive Bayes)  
+### 💳 CREDIT RISK MODEL
+- 🧩 **Goal:** Predict borrower default probability  
+- 🛠 **Tech:** Logistic Regression, XGBoost, LightGBM  
 
-### 🩺 **PNEUMONIA DETECTION**
-✔ Transfer Learning  
-✔ Deployment on Streamlit  
+---
 
-### 📈 **STOCK DATA PROCESSOR**
-✔ Time-series feature engineering  
-✔ TA-Lib, yFinance  
+### 📰 FAKE NEWS DETECTION
+- 🧩 **Goal:** Classify news as real or fake  
+- 🛠 **Tech:** TF-IDF, Naive Bayes, NLP pipeline  
 
-### 🧬 **DISEASE CLASSIFIER**
-✔ ML model + Rule-based recommendations  
+---
 
-### 🎬 **MOVIE & BOOK RECOMMENDERS**
-✔ Content-based filtering  
-✔ Cosine similarity + NLP  
+### 🩺 PNEUMONIA DETECTION
+- 🧩 **Goal:** Classify chest X-rays for pneumonia  
+- 🛠 **Tech:** CNN, Transfer Learning, Streamlit deployment  
+
+---
+
+### 📈 STOCK DATA PROCESSOR
+- 🧩 **Goal:** Clean, transform & engineer stock time-series features  
+- 🛠 **Tech:** Pandas, TA-Lib, yFinance  
+
+---
+
+### 🧬 DISEASE CLASSIFIER & PRESCRIPTION HELPER
+- 🧩 **Goal:** Predict disease & suggest possible prescriptions (educational)  
+- 🛠 **Tech:** ML classifiers, rule-based logic  
+
+---
+
+### 🎬 MOVIE & BOOK RECOMMENDERS
+- 🧩 **Goal:** Recommend similar movies/books  
+- 🛠 **Tech:** Content-based filtering, cosine similarity, NLP  
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiwan-mangate&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwan-mangate&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shiwan-mangate&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwan-mangate&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shiwan-mangate&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shiwan-mangate&theme=tokyonight" height="180" />
 </p>
 
 ---
 
 # 🔗 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/shiwan0014/"><img height="40" src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="https://github.com/shiwan-mangate"><img height="40" src="https://skillicons.dev/icons?i=github"/></a>
-  <a href="mailto:mangateshiwan@gmail.com"><img height="40" src="https://skillicons.dev/icons?i=gmail"/></a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shiwan0014/">
+    <img height="40" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/shiwan-mangate">
+    <img height="40" src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="mailto:mangateshiwan@gmail.com">
+    <img height="40" src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
 </p>
 
 ---
