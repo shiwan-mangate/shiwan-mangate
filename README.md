@@ -1,6 +1,6 @@
 <!-- 🔵 PREMIUM AI BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shiwan-mangate/shiwan-mangate/main/ChatGPT%20Image%20Nov%2030%2C%202025%2C%2011_12_16%20AM.png" width="100%" alt="Premium AI Banner">
+  <img src="https://raw.githubusercontent.com/shiwan-mangate/shiwan-mangate/main/chatgpt_banner.png.png" width="100%" alt="Premium AI Banner">
 </p>
 
 <p align="center">
