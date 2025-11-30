@@ -19,31 +19,47 @@
 ---
 
 # 🧠 About Me
-I’m **Shiwan Mangate**, currently pursuing **B.Tech in Artificial Intelligence (2024–2028)** at **NIT Rourkela**.  
+I’m **Shiwan Mangate**, pursuing **B.Tech in Artificial Intelligence (2024–2028)** at **NIT Rourkela**.
 
-I build intelligent systems at the intersection of:  
-- 🧠 **Machine Learning & Deep Learning**  
-- 💬 **NLP & Generative AI**  
-- 📈 **Quantitative Finance & Time-Series Modeling**  
-- 🏗 **End-to-end ML Systems & Deployment**  
+I work at the intersection of:
+
+- 🧠 Machine Learning & Deep Learning  
+- 💬 NLP & Generative AI  
+- 📈 Quant Finance & Time-Series Modeling  
+- 🏗 End-to-End AI Systems  
 
 ### 🔍 Current Focus
 - Strengthening **DSA, ML theory & Quant Finance**
-- Building **RAG + LLM-based systems**
-- Designing **AI-driven financial and analytical pipelines**
+- Building **RAG + LLM systems**
+- Developing **AI-driven financial pipelines**
+
+---
+
+# 📘 Table of Contents
+- [About Me](#-about-me)
+- [Skills](#-skills--tech-stack)
+- [Featured Projects](#-featured-projects)
+- [GitHub Stats](#-github-stats)
+- [Connect](#-connect-with-me)
 
 ---
 
 # 🧰 Skills & Tech Stack
 
-## 🟦 Programming Languages (Skillicons)
+<details>
+<summary><h3>🟦 Programming Languages</h3></summary>
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark" height="50">
 </p>
 
+</details>
+
 ---
 
-## 🤖 AI / ML Frameworks
+<details>
+<summary><h3>🤖 AI / ML Frameworks</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -54,12 +70,15 @@ I build intelligent systems at the intersection of:
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LightGBM-3C873A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAI-1F2933?style=for-the-badge"/>
 </p>
+
+</details>
 
 ---
 
-## 🧮 Math, Stats & Time-Series
+<details>
+<summary><h3>🧮 Math, Stats & Time-Series</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
   <img src="https://img.shields.io/badge/StatsModels-003B57?style=for-the-badge"/>
@@ -69,141 +88,79 @@ I build intelligent systems at the intersection of:
   <img src="https://img.shields.io/badge/yFinance-003B5C?style=for-the-badge"/>
 </p>
 
+</details>
+
 ---
 
-## 🧠 Deep Learning & Neural Networks
+<details>
+<summary><h3>🧠 Deep Learning & NLP</h3></summary>
+
 <p>
   <img src="https://img.shields.io/badge/HuggingFace_Transformers-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TorchText-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
-
----
-
-## 💬 NLP & GenAI Ecosystem
-<p>
   <img src="https://img.shields.io/badge/LangChain-1C3C5A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangGraph-4A90E2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLamaIndex-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cohere_API-191919?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Groq_API-FF5C5C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangSmith-0052CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-3465A4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
 </p>
+
+</details>
 
 ---
 
-## 📊 Data Science & Visualization
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-0C4B33?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C9ABF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Polars-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
-</p>
+<details>
+<summary><h3>🗂 Databases & DevOps</h3></summary>
 
----
-
-## 🗂 Data Engineering & Pipelines
-<p>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DVC_Data_Version_Control-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
-</p>
-
----
-
-## 🧬 Vector Databases & RAG Infra
-<p>
-  <img src="https://img.shields.io/badge/Pinecone-0052CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Milvus-00A896?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Weaviate-FF6F61?style=for-the-badge"/>
-</p>
-
----
-
-## 🗄 Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
----
-
-## 📈 Quant Finance & Backtesting
-<p>
-  <img src="https://img.shields.io/badge/Backtrader-1B1F22?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/vectorbt-0A9396?style=for-the-badge"/>
-</p>
-
----
-
-## 📦 Experiment Tracking & MLOps
-<p>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-</p>
-
----
-
-## 🧪 Testing, CI/CD & DevOps
-<p>
-  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
----
-
-## 🧰 Development & Platforms (Skillicons)
-<p>
   <img src="https://skillicons.dev/icons?i=git,docker,streamlit,fastapi,flask,linux,windows,vscode&theme=dark" height="50"/>
 </p>
+
+</details>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🚗 CAR DAMAGE PREDICTOR
-Deep learning system detecting car damage from images.  
-**Tech:** CNN, OpenCV, Streamlit  
+### 🚗 **CAR DAMAGE PREDICTOR**
+✔ CNN-based damage detection  
+✔ Tech: PyTorch, OpenCV, Streamlit  
 
-### 💳 CREDIT RISK MODEL
-Predicts borrower default probability using ML models.  
-**Tech:** Logistic Regression, XGBoost, LightGBM  
+---
 
-### 📰 FAKE NEWS DETECTION SYSTEM
-NLP-based classifier for detecting fake vs real news.  
-**Tech:** TF-IDF, Naive Bayes, NLP pipeline  
+### 💳 **CREDIT RISK MODEL**
+✔ Predicts borrower default probability  
+✔ Tech: XGBoost, LightGBM  
 
-### 🩺 PNEUMONIA DETECTION MODEL
-Chest X-ray classifier deployed with Streamlit.  
-**Tech:** CNN, Transfer Learning  
+---
 
-### 📈 STOCK DATA PROCESSOR
-Time-series data processing & feature engineering for stock markets.  
-**Tech:** Pandas, TA-Lib, yFinance  
+### 📰 **FAKE NEWS DETECTION**
+✔ NLP classifier (TF-IDF + Naive Bayes)  
 
-### 🧬 DISEASE CLASSIFICATION & PRESCRIPTION GENERATOR
-Model that predicts disease and suggests prescriptions.  
-**Tech:** ML Classifiers, Rule-based logic  
+---
 
-### 📩 SPAM MESSAGE CLASSIFICATION
-Classifier to detect spam messages.  
-**Tech:** NLP, Naive Bayes  
+### 🩺 **PNEUMONIA DETECTION**
+✔ Chest X-ray classifier  
+✔ Deployment: Streamlit  
 
-### 📚 BOOK RECOMMENDER
-Content-based book recommendation engine.  
-**Tech:** Cosine Similarity, NLP  
+---
 
-### 🎬 MOVIE RECOMMENDER
-Movie recommender using content similarity.  
-**Tech:** Scikit-learn, NLP  
+### 📈 **STOCK DATA PROCESSOR**
+✔ Time-series feature engineering  
+✔ Tech: Pandas, TA-Lib, yFinance  
+
+---
+
+### 🧬 **DISEASE CLASSIFICATION**
+✔ ML classifier + rule-based suggestion  
+
+---
+
+### 🎬 **MOVIE & BOOK RECOMMENDERS**
+✔ Content-based filtering  
+✔ Cosine similarity + NLP  
 
 ---
 
