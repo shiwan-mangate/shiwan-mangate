@@ -36,7 +36,6 @@ I work at the intersection of:
 ---
 
 # 📘 Table of Contents
-- [About Me](#-about-me)
 - [Skills](#-skills--tech-stack)
 - [Featured Projects](#-featured-projects)
 - [GitHub Stats](#-github-stats)
@@ -70,6 +69,7 @@ I work at the intersection of:
   <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LightGBM-3C873A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAI-1F2933?style=for-the-badge"/>
 </p>
 
 </details>
@@ -93,16 +93,14 @@ I work at the intersection of:
 ---
 
 <details>
-<summary><h3>🧠 Deep Learning & NLP</h3></summary>
+<summary><h3>🧠 Deep Learning, Computer Vision & NLP</h3></summary>
 
 <p>
   <img src="https://img.shields.io/badge/HuggingFace_Transformers-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TorchVision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TorchText-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C5A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-4A90E2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLamaIndex-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
 </p>
 
 </details>
@@ -110,11 +108,76 @@ I work at the intersection of:
 ---
 
 <details>
-<summary><h3>🗂 Databases & DevOps</h3></summary>
+<summary><h3>💬 GenAI Ecosystem (RAG, LLMs, Vector DBs)</h3></summary>
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C5A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-4A90E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLamaIndex-FF6F61?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cohere_API-191919?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Groq_API-FF5C5C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-3465A4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pinecone-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Milvus-00A896?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Weaviate-FF6F61?style=for-the-badge"/>
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><h3>📊 Data Science & Visualization</h3></summary>
+
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-0C4B33?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C9ABF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Polars-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black"/>
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><h3>📦 MLOps, CI/CD & Experiment Tracking</h3></summary>
+
+<p>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DVC_Data_Version_Control-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><h3>🗃 Databases</h3></summary>
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+</details>
+
+---
+
+<details>
+<summary><h3>🧰 Development & Platforms</h3></summary>
+
+<p>
   <img src="https://skillicons.dev/icons?i=git,docker,streamlit,fastapi,flask,linux,windows,vscode&theme=dark" height="50"/>
 </p>
 
@@ -128,35 +191,23 @@ I work at the intersection of:
 ✔ CNN-based damage detection  
 ✔ Tech: PyTorch, OpenCV, Streamlit  
 
----
-
 ### 💳 **CREDIT RISK MODEL**
 ✔ Predicts borrower default probability  
 ✔ Tech: XGBoost, LightGBM  
 
----
-
 ### 📰 **FAKE NEWS DETECTION**
 ✔ NLP classifier (TF-IDF + Naive Bayes)  
 
----
-
 ### 🩺 **PNEUMONIA DETECTION**
-✔ Chest X-ray classifier  
-✔ Deployment: Streamlit  
-
----
+✔ Transfer Learning  
+✔ Deployment on Streamlit  
 
 ### 📈 **STOCK DATA PROCESSOR**
 ✔ Time-series feature engineering  
-✔ Tech: Pandas, TA-Lib, yFinance  
+✔ TA-Lib, yFinance  
 
----
-
-### 🧬 **DISEASE CLASSIFICATION**
-✔ ML classifier + rule-based suggestion  
-
----
+### 🧬 **DISEASE CLASSIFIER**
+✔ ML model + Rule-based recommendations  
 
 ### 🎬 **MOVIE & BOOK RECOMMENDERS**
 ✔ Content-based filtering  
